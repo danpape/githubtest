@@ -24,6 +24,12 @@ style="width:3em"|21
 || m || h || u || - || q || h || p 
 |}
 
-
+{|
+|-
+| style="background: red; color: white;" | abc
+| def
+| style="background: red;"| <span style="color: white;"> ghi </span>
+| jkl
+|}
 
 
