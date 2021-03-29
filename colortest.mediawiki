@@ -32,4 +32,12 @@ style="width:3em"|21
 | jkl
 |}
 
+TxRef bit indexes and descriptions
+{| class="wikitable" text-align="center"
+!color||  style="width:7em"|30 ||  style="width:7em"|50 ||
+style="width:7em"|90
+|-
+|grey || {{Coltit|72777D|white|c|x=}}foo || {{Coltit|A2A9B1|w|x}} ||
+{{Coltit|F8F9FA||x}}
+|}
 
