@@ -1,0 +1,59 @@
+tx1:rqqq-qqqq-qmhu-qhp
+
+TxRef character indexes and descriptions
+{| class="wikitable" style="text-align: center"
+!style="width:3em"|0 || style="width:3em"|1 || style="width:3em"|2 ||
+style="width:3em"|3 || style="width:3em"|4 || style="width:3em"|5 ||
+style="width:3em"|6 || style="width:3em"|7 || style="width:3em"|8 ||
+style="width:3em"|9 || style="width:3em"|10 || style="width:3em"|11 ||
+style="width:3em"|12 || style="width:3em"|13 || style="width:3em"|14 ||
+style="width:3em"|15 || style="width:3em"|16 || style="width:3em"|17 ||
+style="width:3em"|18 || style="width:3em"|19 || style="width:3em"|20 ||
+style="width:3em"|21
+|-
+|t || x || 1 || : || r || q || q || q || - || q || q || q || q || - || q
+|| m || h || u || - || q || h || p 
+|}
+
+
+{|
+|-
+| style="background: red; color: white;" | abc
+| def
+| style="background: red;"| <span style="color: white;"> ghi </span>
+| jkl
+|}
+
+
+
+TxRef bit indexes and descriptions
+{| class="wikitable" text-align="center"
+!color||  style="width:7em"|30 ||  style="width:7em"|50 ||
+style="width:7em"|90
+|-
+|grey || {{Coltit|72777D|white|c|x=}}foo || {{Coltit|A2A9B1|w|x}} ||
+{{Coltit|F8F9FA||x}}
+|}
+
+Colors recommended as of
+{{Plainlinks|https://design.wikimedia.org/style-guide/visual-style_colors.html}}:
+{| class="wikitable" text-align="center"
+!color||  style="width:7em"|30 ||  style="width:7em"|50 ||
+style="width:7em"|90
+|-
+|grey || {{Coltit|72777D|white|c|x=}}foo || {{Coltit|A2A9B1|w|x}} ||
+{{Coltit|F8F9FA||x}}
+|-
+|blue || {{Coltit|2A4B8D|w|x}} || {{Coltit|36C|w|x}} ||
+{{Coltit|EAF3FF||x}}
+|-
+|red || {{Coltit|B32424|EEE|x}} || {{Coltit|D33|w|x}} ||
+{{Coltit|FEE7E6||x}}
+|-
+|green || {{Coltit|14866D|w|x}} || {{Coltit|00AF89|w|x}} ||
+{{Coltit|D5FDF4||x}}
+|-
+|gold || {{Coltit|AC6600|w|x}} || {{Coltit|FC3||x}} ||
+{{Coltit|FEF6E7||x}}
+|}
+
