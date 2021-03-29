@@ -20,7 +20,7 @@ style="width:3em"|15 || style="width:3em"|16 || style="width:3em"|17 ||
 style="width:3em"|18 || style="width:3em"|19 || style="width:3em"|20 ||
 style="width:3em"|21
 |-
-|t || x || 1 || \: || r || q || q || q || - || q || q || q || q || - || q
+|t || x || 1 || &#58; || r || q || q || q || - || q || q || q || q || - || q
 || m || h || u || - || q || h || p 
 |}
 
