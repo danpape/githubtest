@@ -9,3 +9,21 @@
 
 tx1:rqqq-qqqq-qmhu-qhp
 
+TxRef character indexes and descriptions
+{| class="wikitable" style="text-align: center"
+!style="width:3em"|0 || style="width:3em"|1 || style="width:3em"|2 ||
+style="width:3em"|3 || style="width:3em"|4 || style="width:3em"|5 ||
+style="width:3em"|6 || style="width:3em"|7 || style="width:3em"|8 ||
+style="width:3em"|9 || style="width:3em"|10 || style="width:3em"|11 ||
+style="width:3em"|12 || style="width:3em"|13 || style="width:3em"|14 ||
+style="width:3em"|15 || style="width:3em"|16 || style="width:3em"|17 ||
+style="width:3em"|18 || style="width:3em"|19 || style="width:3em"|20 ||
+style="width:3em"|21
+|-
+|t || x || 1 || : || r || q || q || q || - || q || q || q || q || - || q
+|| m || h || u || - || q || h || p 
+|}
+
+
+
+
